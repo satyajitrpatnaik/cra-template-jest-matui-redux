@@ -1,0 +1,26 @@
+{
+  "name": "cra-template-jest-matui-redux",
+  "version": "0.0.0",
+  "author": "satyajitrpatnaik",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "jest",
+    "material-ui",
+    "react-redux"
+  ],
+  "main": "template.json",
+  "description": "the basic create react app template with basic wiring for react-redux, jest and material ui.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/satyajitrpatnaik/cra-template-jest-matui-redux.git"
+  },
+  "engines": {
+    "node": ">=10"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
